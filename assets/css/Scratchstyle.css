@@ -1,0 +1,11 @@
+.background{
+    background-color: rgb(1, 151, 244);
+}
+
+.France{
+    font-family: 'Times New Roman', Times, serif;
+    text-transform: uppercase;
+    font-weight: 12px;
+    letter-spacing: 1px;
+    color:black
+} 
